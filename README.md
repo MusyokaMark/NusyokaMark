@@ -1,3 +1,21 @@
+# About Me
+
+Hello, I'm Mark Musyoka!
+
+👨‍💻 I'm a passionate software developer with a strong love for coding and problem-solving. My journey in the world of technology began at a young age, and I've been hooked ever since.
+
+🌍 I believe in the power of technology to make the world a better place. 
+
+🚀 I'm constantly learning and striving to improve my skills. My goal is to create software that is not only functional but also elegant and efficient.
+
+## What I Do
+
+- 💻 I code with languages and technologies like [list some of the languages/technologies you work with, e.g., Python, JavaScript, React, etc.].
+- 🌐 I develop web applications and have experience with both frontend and backend technologies.
+- 🤖 I'm fascinated by artificial intelligence and machine learning, and I'm always exploring new AI techniques.
+- 📚 I'm a strong advocate for open-source software and have contributed to several projects on GitHub.
+
+Happy coding! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musyoka.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-musyoka) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@musyoka.dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MusyokaMark) 
